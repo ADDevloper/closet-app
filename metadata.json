@@ -1,0 +1,7 @@
+{
+  "name": "Closet - AI Fashion Assistant",
+  "description": "Your personal digital closet and AI-powered fashion stylist. Upload your clothes, get outfit suggestions, and style your items with ease.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
